@@ -1,4 +1,4 @@
-# 
+# Personnalisé Mastra préréglages. Avec graphes de connaissances et web scraping — optimisé pour des performances et une efficacité maximales.
 
 
 
